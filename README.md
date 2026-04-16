@@ -1,2 +1,2 @@
 # SQA-Demo
-author : "Shahzad akbar"
+author : "Shahzad"
